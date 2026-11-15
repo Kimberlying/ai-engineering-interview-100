@@ -6,6 +6,11 @@
 </p>
 
 <p align="center">
+  <a href="README.md"><b>🇨🇳 简体中文</b></a> | 
+  <a href="README_EN.md"><b>🇬🇧 English</b></a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome">
   <img src="https://img.shields.io/badge/Status-Complete-success.svg" alt="Status">
   <img src="https://img.shields.io/badge/Focus-Production%20Incidents-blue.svg" alt="Focus">
