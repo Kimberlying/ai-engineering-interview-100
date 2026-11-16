@@ -1,4 +1,4 @@
-# build_readme.py - Generates the comprehensive README.md for ai-engineering-interview-100
+# build_readme.py - Generates the comprehensive README_ZH.md for ai-engineering-interview-100
 
 import os
 
@@ -7,6 +7,11 @@ header = """# 2026 AI 工程面试 100 题：从真实线上故障到系统架�
 <p align="center">
   <b>100 Questions That Haunt AI Engineering Interviews in 2026</b><br>
   涵盖 LLM 基础、RAG、Agent、微调选型、推理部署、生产可靠性、安全成本及 7 大系统设计
+</p>
+
+<p align="center">
+  <a href="README.md"><b>🇬🇧 English</b></a> | 
+  <a href="README_ZH.md"><b>🇨🇳 简体中文</b></a>
 </p>
 
 <p align="center">

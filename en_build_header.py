@@ -8,8 +8,8 @@ en_header = """# 100 Questions That Haunt AI Engineering Interviews in 2026
 </p>
 
 <p align="center">
-  <a href="README.md"><b>🇨🇳 简体中文</b></a> | 
-  <a href="README_EN.md"><b>🇬🇧 English</b></a>
+  <a href="README.md"><b>🇬🇧 English</b></a> | 
+  <a href="README_ZH.md"><b>🇨🇳 简体中文</b></a>
 </p>
 
 <p align="center">

@@ -47,7 +47,7 @@ full_en_content = (
     en_footer
 )
 
-with open("README_EN.md", "w", encoding="utf-8") as f:
+with open("README.md", "w", encoding="utf-8") as f:
     f.write(full_en_content)
 
-print(f"Generated README_EN.md with {len(full_en_content)} characters and {len(full_en_content.splitlines())} lines.")
+print(f"Generated README.md with {len(full_en_content)} characters and {len(full_en_content.splitlines())} lines.")

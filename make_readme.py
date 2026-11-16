@@ -36,7 +36,7 @@ footer = """
 
 full_content = header + "\n" + parts_1_2 + "\n" + part3 + "\n" + part4 + "\n" + part5 + "\n" + part6 + "\n" + part7 + "\n" + part8 + "\n" + footer
 
-with open("README.md", "w", encoding="utf-8") as f:
+with open("README_ZH.md", "w", encoding="utf-8") as f:
     f.write(full_content)
 
-print(f"Generated README.md with {len(full_content)} characters and {len(full_content.splitlines())} lines.")
+print(f"Generated README_ZH.md with {len(full_content)} characters and {len(full_content.splitlines())} lines.")
